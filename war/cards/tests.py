@@ -85,3 +85,4 @@ class FormTestCase(TestCase):
 #             warnings.extend(run_pep8_for_package(package, extra_ignore=("_settings",)))
 #         if warnings:
 #             self.fail("{0} Syntax warnings!\n\n{1}".format(len(warnings), "\n".join(warnings)))
+
